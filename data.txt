@@ -1,0 +1,1840 @@
+Rani	B-PERSON
+Kumari	I-PERSON
+visited	O
+Apollo	B-HOSPITAL
+Hospital	I-HOSPITAL
+in	O
+Delhi	B-CITY
+on	O
+15	B-DATE
+August	I-DATE
+2023	I-DATE
+.	O
+
+Dr.	B-PERSON
+Amit	I-PERSON
+Shah	I-PERSON
+is	O
+a	O
+renowned	O
+surgeon	O
+at	O
+AIIMS	B-HOSPITAL
+.	O
+
+Contact	O
+support	B-EMAIL
+@	I-EMAIL
+healthcare	I-EMAIL
+.	I-EMAIL
+org	I-EMAIL
+for	O
+assistance	O
+.	O
+
+Call	O
+our	O
+helpline	O
+number	O
+1800	B-PHONE
+123	I-PHONE
+4567	I-PHONE
+.	O
+
+The	O
+temperature	O
+in	O
+Jaipur	B-CITY
+reached	O
+47	B-TEMPERATURE
+°C	I-TEMPERATURE
+yesterday	O
+.	O
+
+Apollo	B-HOSPITAL
+Kolkata	I-HOSPITAL
+treated	O
+over	O
+200	B-COUNT
+patients	O
+last	O
+week	O
+.	O
+
+Visit	O
+www	B-URLS
+.	I-URLS
+govhealth	I-URLS
+.	I-URLS
+in	I-URLS
+for	O
+more	O
+info	O
+.	O
+
+Microsoft	B-ORG
+India	I-ORG
+launched	O
+a	O
+new	O
+AI	O
+center	O
+in	O
+Hyderabad	B-CITY
+.	O
+
+The	O
+festival	B-EVENT
+of	O
+lights	O
+was	O
+celebrated	O
+on	O
+24	B-DATE
+October	I-DATE
+2022	I-DATE
+.	O
+
+Email	O
+queries	O
+to	O
+helpdesk	B-EMAIL
+@	I-EMAIL
+delhigov	I-EMAIL
+.	I-EMAIL
+in	I-EMAIL
+.	O
+
+Neha	B-PERSON
+Singh	I-PERSON
+organized	O
+the	O
+blood	O
+donation	O
+camp	O
+at	O
+Safdarjung	B-HOSPITAL
+.	O
+
+Patna	B-CITY
+Medical	B-HOSPITAL
+College	I-HOSPITAL
+held	O
+a	O
+seminar	O
+on	O
+malaria	B-DISEASE
+.	O
+
+India	B-COUNTRY
+and	O
+France	B-COUNTRY
+signed	O
+a	O
+defense	O
+agreement	O
+.	O
+
+Dr.	B-PERSON
+Rajesh	I-PERSON
+Verma	I-PERSON
+was	O
+appointed	O
+as	O
+director	O
+of	O
+AIIMS	B-HOSPITAL
+Bhopal	I-HOSPITAL
+.	O
+
+Call	O
+us	O
+at	O
+9876543210	B-PHONE
+for	O
+more	O
+details	O
+.	O
+
+The	O
+Ministry	B-ORG
+of	I-ORG
+Health	I-ORG
+launched	O
+a	O
+new	O
+vaccination	O
+drive	O
+.	O
+
+Asha	B-PERSON
+Mishra	I-PERSON
+was	O
+diagnosed	O
+with	O
+typhoid	B-DISEASE
+.	O
+
+The	O
+fire	B-POLICE_STATION__FIRE_SERVICES
+department	I-POLICE_STATION__FIRE_SERVICES
+in	O
+Lucknow	B-CITY
+handled	O
+the	O
+emergency	O
+efficiently	O
+.	O
+
+Book	O
+an	O
+appointment	O
+on	O
+www	B-URLS
+.	I-URLS
+fortis	I-URLS
+.	I-URLS
+com	I-URLS
+today	O
+.	O
+
+Mr.	B-PERSON
+Suresh	I-PERSON
+Kumar	I-PERSON
+works	O
+at	O
+TCS	B-ORG
+in	O
+Bengaluru	B-CITY
+.	O
+
+The	O
+incident	O
+occurred	O
+on	O
+10	B-DATE
+January	I-DATE
+2023	I-DATE
+at	O
+4	B-TIME
+PM	I-TIME
+.	O
+
+Dr.	B-PERSON
+Priya	I-PERSON
+Mehta	I-PERSON
+is	O
+a	O
+specialist	O
+in	O
+cardiology	B-DISEASE
+.	O
+
+Visit	O
+https	B-URLS
+:	I-URLS
+/	I-URLS
+/	I-URLS
+www	I-URLS
+.	I-URLS
+health	B-URLS
+.	I-URLS
+gov	I-URLS
+.	I-URLS
+in	I-URLS
+.	O
+
+The	O
+hospital	B-FACILITIES
+has	O
+120	B-COUNT
+beds	O
+available	O
+now	O
+.	O
+
+Anjali	B-PERSON
+visited	O
+Breach	B-HOSPITAL
+Candy	I-HOSPITAL
+Hospital	I-HOSPITAL
+in	O
+Mumbai	B-CITY
+.	O
+
+There	O
+was	O
+a	O
+32	B-AGE
+year-old	I-AGE
+man	O
+admitted	O
+.	O
+
+Infosys	B-ORG
+is	O
+hiring	O
+software	O
+engineers	O
+in	O
+Pune	B-CITY
+.	O
+
+The	O
+blood	B-FACILITIES
+bank	I-FACILITIES
+was	O
+opened	O
+on	O
+Monday	B-DATE
+.	O
+
+Rahul	B-PERSON
+scored	O
+90	B-PERCENT
+%	I-PERCENT
+in	O
+his	O
+board	O
+exams	O
+.	O
+
+Pay	O
+₹	B-MONEY
+1500	I-MONEY
+for	O
+registration	O
+.	O
+
+Bihar	B-STATE
+reported	O
+a	O
+spike	O
+in	O
+cholera	B-DISEASE
+cases	O
+.	O
+
+Contact	O
+emergency	B-FACILITIES
+services	I-FACILITIES
+in	O
+Kolkata	B-CITY
+.	O
+
+The	O
+event	B-EVENT
+will	O
+start	O
+at	O
+6	B-TIME
+PM	I-TIME
+today	O
+.	O
+
+Rajasthan	B-STATE
+has	O
+launched	O
+a	O
+new	O
+health	O
+scheme	O
+.	O
+
+Email	O
+support	B-EMAIL
+@	I-EMAIL
+mohfw	I-EMAIL
+.	I-EMAIL
+nic	I-EMAIL
+.	I-EMAIL
+in	I-EMAIL
+.	O
+
+Taj	B-FACILITIES
+Hotel	I-FACILITIES
+in	O
+Agra	B-CITY
+is	O
+offering	O
+discounts	O
+.	O
+
+The	O
+Prime	B-PERSON
+Minister	I-PERSON
+visited	O
+Kerala	B-STATE
+.	O
+
+The	O
+firefighters	B-POLICE_STATION__FIRE_SERVICES
+from	O
+Ahmedabad	B-CITY
+controlled	O
+the	O
+blaze	O
+.	O
+
+Submit	O
+your	O
+form	O
+on	O
+www	B-URLS
+.	I-URLS
+delhihealth	I-URLS
+.	I-URLS
+gov	I-URLS
+.	I-URLS
+in	I-URLS
+.	O
+
+Mumbai	B-CITY
+Airport	B-FACILITIES
+was	O
+closed	O
+due	O
+to	O
+fog	O
+.	O
+
+Parul	B-PERSON
+Sharma	I-PERSON
+scored	O
+98	B-PERCENT
+%	I-PERCENT
+in	O
+Maths	O
+.	O
+
+Hyderabad	B-CITY
+is	O
+hosting	O
+a	O
+medical	O
+conference	B-EVENT
+this	O
+week	O
+.	O
+
+WHO	B-ORG
+released	O
+a	O
+report	O
+on	O
+healthcare	O
+.	O
+
+The	O
+budget	O
+for	O
+vaccines	O
+is	O
+₹	B-MONEY
+2000	I-MONEY
+crore	I-MONEY
+.	O
+Sanjay	B-PERSON
+Verma	I-PERSON
+joined	O
+Infosys	B-ORG
+as	O
+a	O
+software	O
+engineer	O
+in	O
+Pune	B-CITY
+.	O
+
+The	O
+emergency	B-FACILITIES
+ward	I-FACILITIES
+in	O
+AIIMS	B-HOSPITAL
+Delhi	I-HOSPITAL
+was	O
+renovated	O
+recently	O
+.	O
+
+Call	O
+our	O
+helpline	O
+at	O
+1800	B-PHONE
+200	I-PHONE
+3456	I-PHONE
+for	O
+support	O
+.	O
+
+COVID-19	B-DISEASE
+cases	O
+are	O
+rising	O
+in	O
+Uttar	B-STATE
+Pradesh	I-STATE
+.	O
+
+The	O
+official	O
+website	O
+is	O
+www	B-URLS
+.	I-URLS
+health	I-URLS
+.	I-URLS
+gov	I-URLS
+.	I-URLS
+in	I-URLS
+.	O
+
+Dr.	B-PERSON
+Rakesh	I-PERSON
+Singh	I-PERSON
+spoke	O
+at	O
+the	O
+Global	B-EVENT
+Health	I-EVENT
+Summit	I-EVENT
+.	O
+
+Book	O
+an	O
+appointment	O
+with	O
+Dr.	B-PERSON
+Kriti	I-PERSON
+Jain	I-PERSON
+online	O
+.	O
+
+Apollo	B-HOSPITAL
+Hospital	I-HOSPITAL
+in	O
+Ahmedabad	B-CITY
+has	O
+modern	O
+ICU	B-FACILITIES
+facilities	O
+.	O
+
+India	B-COUNTRY
+celebrated	O
+its	O
+75th	O
+Independence	B-EVENT
+Day	I-EVENT
+on	O
+15	B-DATE
+August	I-DATE
+2022	I-DATE
+.	O
+
+The	O
+temperature	O
+in	O
+Nagpur	B-CITY
+is	O
+42	B-TEMPERATURE
+°C	I-TEMPERATURE
+today	O
+.	O
+
+Email	O
+support	B-EMAIL
+@	I-EMAIL
+apollohospital	I-EMAIL
+.	I-EMAIL
+org	I-EMAIL
+.	O
+
+The	O
+ambulance	B-FACILITIES
+reached	O
+in	O
+15	B-TIME
+minutes	I-TIME
+.	O
+
+Amazon	B-ORG
+India	I-ORG
+announced	O
+festive	O
+discounts	O
+this	O
+month	O
+.	O
+
+Ananya	B-PERSON
+Roy	I-PERSON
+from	O
+Kolkata	B-CITY
+scored	O
+97	B-PERCENT
+%	I-PERCENT
+in	O
+Maths	O
+.	O
+
+Pay	O
+₹	B-MONEY
+850	I-MONEY
+for	O
+your	O
+consultation	O
+.	O
+
+The	O
+fire	B-POLICE_STATION__FIRE_SERVICES
+station	I-POLICE_STATION__FIRE_SERVICES
+in	O
+Bhopal	B-CITY
+responded	O
+promptly	O
+.	O
+
+Microsoft	B-ORG
+invested	O
+₹	B-MONEY
+1200	I-MONEY
+crores	I-MONEY
+in	O
+India	B-COUNTRY
+.	O
+
+Email	O
+queries	O
+to	O
+help	B-EMAIL
+@	I-EMAIL
+govin	I-EMAIL
+.	I-EMAIL
+in	I-EMAIL
+.	O
+
+Aarav	B-PERSON
+Sharma	I-PERSON
+was	O
+admitted	O
+to	O
+Fortis	B-HOSPITAL
+Hospital	I-HOSPITAL
+.	O
+
+The	O
+conference	B-EVENT
+on	O
+Digital	O
+Health	O
+was	O
+held	O
+in	O
+Chennai	B-CITY
+.	O
+
+Police	B-ORG
+in	O
+Gurgaon	B-CITY
+investigated	O
+a	O
+cyber	O
+crime	O
+case	O
+.	O
+
+AIIMS	B-HOSPITAL
+has	O
+one	O
+of	O
+the	O
+largest	O
+trauma	B-FACILITIES
+centers	I-FACILITIES
+in	O
+India	B-COUNTRY
+.	O
+
+The	O
+Malaria	B-DISEASE
+outbreak	O
+was	O
+contained	O
+in	O
+Odisha	B-STATE
+.	O
+
+Tanvi	B-PERSON
+Kapoor	I-PERSON
+registered	O
+through	O
+www	B-URLS
+.	I-URLS
+healthportal	I-URLS
+.	I-URLS
+in	I-URLS
+.	O
+
+The	O
+Delhi	B-STATE
+Fire	B-POLICE_STATION__FIRE_SERVICES
+Service	I-POLICE_STATION__FIRE_SERVICES
+handled	O
+the	O
+chemical	O
+leakage	O
+.	O
+
+Call	O
+us	O
+on	O
+999	B-PHONE
+888	I-PHONE
+7770	I-PHONE
+today	O
+.	O
+
+The	O
+patient	B-PERSON
+was	O
+45	B-AGE
+years	I-AGE
+old	O
+.	O
+
+Bengaluru	B-CITY
+is	O
+hosting	O
+a	O
+robotics	O
+conference	B-EVENT
+this	O
+week	O
+.	O
+
+Infosys	B-ORG
+plans	O
+to	O
+hire	O
+200	B-COUNT
+graduates	O
+.	O
+
+The	O
+workshop	B-EVENT
+on	O
+mental	O
+health	O
+starts	O
+at	O
+11	B-TIME
+AM	I-TIME
+.	O
+
+AIIMS	B-HOSPITAL
+has	O
+launched	O
+a	O
+free	O
+online	O
+portal	O
+.	O
+
+Dr.	B-PERSON
+Farhan	I-PERSON
+Ali	I-PERSON
+is	O
+a	O
+neurosurgeon	O
+from	O
+Kanpur	B-CITY
+.	O
+
+Check	O
+the	O
+vaccination	O
+status	O
+at	O
+www	B-URLS
+.	I-URLS
+covid	I-URLS
+.	I-URLS
+org	I-URLS
+.	I-URLS
+in	I-URLS
+.	O
+
+Akhil	B-PERSON
+sent	O
+an	O
+email	O
+to	O
+care	B-EMAIL
+@	I-EMAIL
+aiims	I-EMAIL
+.	I-EMAIL
+edu	I-EMAIL
+.	O
+
+Haryana	B-STATE
+recorded	O
+a	O
+drop	O
+in	O
+dengue	B-DISEASE
+cases	O
+.	O
+
+Suresh	B-PERSON
+Chandra	I-PERSON
+is	O
+the	O
+CEO	O
+of	O
+Vedanta	B-ORG
+.	O
+
+The	O
+health	B-FACILITIES
+unit	I-FACILITIES
+in	O
+Jharkhand	B-STATE
+was	O
+expanded	O
+.	O
+
+Diabetes	B-DISEASE
+is	O
+becoming	O
+a	O
+growing	O
+concern	O
+in	O
+urban	O
+India	B-COUNTRY
+.	O
+
+Call	O
+1800	B-PHONE
+555	I-PHONE
+6677	I-PHONE
+for	O
+appointments	O
+.	O
+
+Tanya	B-PERSON
+Malhotra	I-PERSON
+attended	O
+the	O
+annual	B-EVENT
+medical	I-EVENT
+fair	I-EVENT
+.	O
+
+Google	B-ORG
+launched	O
+its	O
+new	O
+AI	O
+lab	O
+in	O
+Noida	B-CITY
+.	O
+Sita    B-PERSON
+lives   O
+in      O
+Hyderabad       B-CITY
+.       O
+
+Tata    B-ORG
+Consultancy     I-ORG
+Services        I-ORG
+is      O
+hiring  O
+graduates       O
+.       O
+
+Dr.     B-PERSON
+Rakesh  I-PERSON
+Mehta   I-PERSON
+joined  O
+AIIMS   B-HOSPITAL
+Delhi   B-CITY
+in      O
+2021    B-DATE
+.       O
+
+You     O
+can     O
+reach   O
+me      O
+at      O
+priya.kumar@gmail.com     B-EMAIL
+.       O
+
+The     O
+meeting B-EVENT
+is      O
+scheduled       O
+for     O
+5       B-DATE
+May     I-DATE
+2025    I-DATE
+.       O
+
+He      O
+called  O
+on      O
++91-9898989898   B-PHONE
+.       O
+
+Apollo  B-HOSPITAL
+Hospital        I-HOSPITAL
+offers  O
+world-class     O
+facilities      B-FACILITIES
+.       O
+
+They    O
+imported        O
+500     B-COUNT
+oxygen  O
+cylinders       O
+.       O
+
+Covid-19        B-DISEASE
+cases   O
+are     O
+declining       O
+in      O
+Rajasthan       B-STATE
+.       O
+
+She     O
+received        O
+₹10000  B-MONEY
+as      O
+bonus   O
+.       O
+
+The     O
+officials       O
+visited O
+Mumbai  B-CITY
+Central B-FACILITIES
+Station O
+.       O
+
+On      O
+15th     B-DATE
+August   I-DATE
+India    B-COUNTRY
+celebrates      O
+Independence    B-EVENT
+Day     I-EVENT
+.       O
+
+Fire    B-POLICE_STATION__FIRE_SERVICES
+services        I-POLICE_STATION__FIRE_SERVICES
+arrived O
+in      O
+5       B-TIME
+minutes I-TIME
+.       O
+
+I       O
+searched        O
+www.railways.gov.in      B-URLS
+for     O
+train   O
+schedules       O
+.       O
+
+Anjali  B-PERSON
+contacted       O
+Bihar   B-STATE
+Police  B-POLICE_STATION__FIRE_SERVICES
+regarding       O
+theft   O
+.       O
+
+The     O
+report  O
+will    O
+be      O
+published       O
+on      O
+22nd    B-DATE
+July    I-DATE
+.       O
+
+He      O
+arrived O
+at      O
+6:30    B-TIME
+PM      I-TIME
+.       O
+
+National        B-ORG
+Highway         I-ORG
+Authority       I-ORG
+of      I-ORG
+India   I-ORG
+is      O
+undergoing      O
+revamp  O
+.       O
+
+Swati   B-PERSON
+downloaded      O
+the     O
+YONO    B-PRODUCT
+app     O
+from    O
+Play    O
+Store   O
+.       O
+
+She     O
+has     O
+Malaria B-DISEASE
+since   O
+Monday  B-DATE
+.       O
+
+Bangalore       B-CITY
+is      O
+known   O
+for     O
+its     O
+IT      O
+sector  O
+.       O
+
+The     O
+bill    O
+amount  O
+was     O
+₹2500   B-MONEY
+.       O
+
+Infosys B-ORG
+Ltd.    I-ORG
+has     O
+offices O
+in      O
+Chennai B-CITY
+.       O
+
+Rani    B-PERSON
+scored  O
+92%     B-PERCENT
+in      O
+her     O
+exams   O
+.       O
+
+Amrit   B-PERSON
+attended        O
+the     O
+Infection       B-EVENT
+Control I-EVENT
+Seminar I-EVENT
+.       O
+
+The     O
+doctors O
+at      O
+Fortis  B-HOSPITAL
+Hospital        I-HOSPITAL
+saved   O
+her     O
+life    O
+.       O
+
+Please  O
+call    O
+me      O
+on      O
+9876543210      B-PHONE
+.       O
+
+They    O
+celebrated      O
+Republic        B-EVENT
+Day     I-EVENT
+on      O
+26      B-DATE
+January I-DATE
+.       O
+
+Patna   B-CITY
+has     O
+a       O
+well-equipped   O
+Emergency       B-FACILITIES
+Ward    I-FACILITIES
+.       O
+
+Dengue  B-DISEASE
+outbreak        O
+is      O
+under   O
+control O
+now     O
+.       O
+
+Siddharth       B-PERSON
+is      O
+working O
+at      O
+HCL     B-ORG
+Technologies    I-ORG
+.       O
+
+Delhi   B-CITY
+Metro   O
+is      O
+safe    O
+for     O
+travel  O
+.       O
+
+They    O
+transferred     O
+₹50000  B-MONEY
+to      O
+the     O
+account O
+.       O
+
+Kapil   B-PERSON
+booked  O
+tickets O
+via     O
+www.irctc.co.in B-URLS
+.       O
+
+There   O
+are     O
+45      B-COUNT
+patients        O
+in      O
+the     O
+ward    O
+.       O
+
+Mr.     B-PERSON
+Ajay    I-PERSON
+Kumar   I-PERSON
+joined  O
+Indian  B-ORG
+Oil     I-ORG
+.       O
+
+She     O
+was     O
+born    O
+on      O
+12th    B-DATE
+April   I-DATE
+.       O
+
+Call    O
+Patna   B-POLICE_STATION__FIRE_SERVICES
+Station I-POLICE_STATION__FIRE_SERVICES
+in      O
+case    O
+of      O
+emergency      O
+.       O
+Rahul	B-PERSON
+Verma	I-PERSON
+visited	O
+the	O
+Gandhi	B-HOSPITAL
+Hospital	I-HOSPITAL
+in	O
+Bhopal	B-CITY
+on	O
+23rd	B-DATE
+May	I-DATE
+2023	I-DATE
+.	O
+
+Anjali	B-PERSON
+called	O
+her	O
+father	O
+at	O
++919812345678	B-PHONE
+to	O
+inform	O
+about	O
+her	O
+appointment	O
+.	O
+
+The	O
+Kalinga	B-EVENT
+Literary	I-EVENT
+Festival	I-EVENT
+will	O
+be	O
+held	O
+in	O
+Bhubaneswar	B-CITY
+next	O
+week	O
+.	O
+
+Apollo	B-HOSPITAL
+Hospitals	I-HOSPITAL
+Chennai	B-CITY
+is	O
+famous	O
+for	O
+its	O
+cancer	B-DISEASE
+treatment	O
+.	O
+
+Mr.	O
+Rakesh	B-PERSON
+Sharma	I-PERSON
+works	O
+for	O
+Indian	B-ORG
+Space	I-ORG
+Research	I-ORG
+Organisation	I-ORG
+.	O
+
+Anshika	B-PERSON
+lives	O
+in	O
+Itanagar	B-CITY
+,	O
+the	O
+capital	O
+of	O
+Arunachal	B-STATE
+Pradesh	I-STATE
+.	O
+
+The	O
+official	O
+website	O
+is	O
+www.mha.gov.in	B-URLS
+.	O
+
+Please	O
+send	O
+an	O
+email	O
+to	O
+hr@iitd.ac.in	B-EMAIL
+for	O
+further	O
+details	O
+.	O
+
+They	O
+conducted	O
+a	O
+COVID-19	B-DISEASE
+testing	O
+drive	O
+in	O
+Kozhikode	B-CITY
+.	O
+
+India	B-COUNTRY
+won	O
+5	B-COUNT
+gold	I-COUNT
+medals	O
+in	O
+the	O
+Asian	B-EVENT
+Games	I-EVENT
+.	O
+
+On	O
+14th	B-DATE
+August	I-DATE
+1947	I-DATE
+,	O
+Pakistan	B-COUNTRY
+gained	O
+independence	O
+.	O
+
+Pawan	B-PERSON
+Kumar	I-PERSON
+has	O
+a	O
+meeting	O
+scheduled	O
+at	O
+11:45	B-TIME
+AM	I-TIME
+.	O
+
+The	O
+blood	O
+pressure	O
+was	O
+recorded	O
+as	O
+120/80	B-TEMPERATURE
+mmHg	O
+.	O
+
+Taj	B-FACILITIES
+Hotel	I-FACILITIES
+Mumbai	B-CITY
+was	O
+renovated	O
+last	O
+month	O
+.	O
+
+Indira	B-PERSON
+Gandhi	I-PERSON
+was	O
+born	O
+on	O
+19th	B-DATE
+November	I-DATE
+1917	I-DATE
+.	O
+
+The	O
+Capital	B-FACILITIES
+Complex	I-FACILITIES
+in	O
+Chandigarh	B-CITY
+is	O
+a	O
+UNESCO	B-ORG
+Heritage	I-ORG
+Site	I-ORG
+.	O
+
+He	O
+scored	O
+98.75	B-PERCENT
+percent	I-PERCENT
+in	O
+his	O
+board	O
+exam	O
+.	O
+
+Ravi	B-PERSON
+booked	O
+tickets	O
+for	O
+Shillong	B-CITY
+,	O
+capital	O
+of	O
+Meghalaya	B-STATE
+.	O
+
+Her	O
+website	O
+https://raniwrites.in	B-URLS
+has	O
+many	O
+poems	O
+.	O
+
+Shreya	B-PERSON
+is	O
+undergoing	O
+treatment	O
+for	O
+pneumonia	B-DISEASE
+at	O
+Max	B-HOSPITAL
+Hospital	I-HOSPITAL
+.	O
+
+Agartala	B-CITY
+is	O
+the	O
+capital	O
+of	O
+Tripura	B-STATE
+.	O
+
+The	O
+temperature	O
+in	O
+Srinagar	B-CITY
+was	O
+-2	B-TEMPERATURE
+degree	I-TEMPERATURE
+Celsius	I-TEMPERATURE
+today	O
+.	O
+
+He	O
+bought	O
+a	O
+new	O
+Dell	B-PRODUCT
+laptop	O
+from	O
+Amazon	B-ORG
+.	O
+
+The	O
+chief	O
+minister	O
+of	O
+Jharkhand	B-STATE
+visited	O
+Hazaribagh	B-CITY
+.	O
+
+The	O
+Fire	B-POLICE_STATION__FIRE_SERVICES
+Department	I-POLICE_STATION__FIRE_SERVICES
+reached	O
+within	O
+10	B-TIME
+minutes	I-TIME
+.	O
+
+She	O
+earned	O
+₹	B-MONEY
+5	I-MONEY
+lakhs	I-MONEY
+in	O
+one	O
+month	O
+from	O
+freelancing	O
+.	O
+
+Dr.	O
+Meera	B-PERSON
+Singh	I-PERSON
+is	O
+a	O
+renowned	O
+dermatologist	O
+.	O
+
+Rajiv	B-PERSON
+Chowk	B-CITY
+metro	O
+station	O
+is	O
+in	O
+New	B-CITY
+Delhi	I-CITY
+.	O
+
+The	O
+Nobel	B-EVENT
+Prize	I-EVENT
+was	O
+awarded	O
+to	O
+Amartya	B-PERSON
+Sen	I-PERSON
+.	O
+
+Email	O
+us	O
+at	O
+support@upsc.gov.in	B-EMAIL
+for	O
+queries	O
+.	O
+
+The	O
+crime	O
+was	O
+reported	O
+to	O
+Vikaspuri	B-POLICE_STATION__FIRE_SERVICES
+Police	I-POLICE_STATION__FIRE_SERVICES
+Station	I-POLICE_STATION__FIRE_SERVICES
+.	O
+
+Amit	B-PERSON
+traveled	O
+to	O
+Dispur	B-CITY
+,	O
+capital	O
+of	O
+Assam	B-STATE
+.	O
+
+They	O
+celebrated	O
+the	O
+World	B-EVENT
+Health	I-EVENT
+Day	I-EVENT
+in	O
+Raipur	B-CITY
+.	O
+
+Meghna	B-PERSON
+bought	O
+a	O
+Revlon	B-PRODUCT
+lipstick	O
+yesterday	O
+.	O
+
+The	O
+lecture	O
+starts	O
+at	O
+9:00	B-TIME
+AM	I-TIME
+sharp	O
+.	O
+
+Andhra	B-STATE
+Pradesh	I-STATE
+has	O
+its	O
+capital	O
+in	O
+Amaravati	B-CITY
+.	O
+
+They	O
+need	O
+15	B-COUNT
+chairs	I-COUNT
+for	O
+the	O
+meeting	O
+.	O
+
+Dr.	O
+Ananya	B-PERSON
+Verma	I-PERSON
+is	O
+a	O
+pediatrician	O
+in	O
+AIIMS	B-HOSPITAL
+Delhi	B-CITY
+.	O
+
+The	O
+company	O
+earned	O
+₹	B-MONEY
+1	I-MONEY
+crore	I-MONEY
+in	O
+quarter	O
+1	O
+.	O
+Ravi    B-PERSON
+Kumar   I-PERSON
+was     O
+admitted    O
+to      O
+AIIMS   B-HOSPITAL
+Delhi   B-CITY
+on      O
+14th    B-DATE
+February    I-DATE
+2023    I-DATE
+.       O
+
+The     O
+conference O
+was     O
+held    O
+in      O
+Kolkata B-CITY
+at      O
+Netaji  B-FACILITIES
+Indoor  I-FACILITIES
+Stadium I-FACILITIES
+.       O
+
+Dr.     B-PERSON
+Megha   I-PERSON
+Patel   I-PERSON
+is      O
+a       O
+renowned    O
+cardiologist O
+at      O
+Apollo  B-HOSPITAL
+Hospitals   I-HOSPITAL
+in      O
+Ahmedabad   B-CITY
+.       O
+
+Please  O
+contact O
+her     O
+at      O
+megha.patel92@gmail.com B-EMAIL
+for     O
+appointments    O
+.       O
+
+He      O
+was     O
+born    O
+in      O
+Guwahati    B-CITY
+on      O
+10th    B-DATE
+October I-DATE
+1992    I-DATE
+.       O
+
+Shivani B-PERSON
+Verma   I-PERSON
+from    O
+Patna   B-CITY
+scored  O
+94.5    B-PERCENT
+percent I-PERCENT
+in      O
+her     O
+board   O
+exams   O
+.       O
+
+The     O
+URL     O
+for     O
+the     O
+project O
+is      O
+https://www.smartcitydelhi.gov.in  B-URLS
+.       O
+
+Chandigarh   B-STATE
+is      O
+known   O
+for     O
+its     O
+urban   O
+planning    O
+and     O
+is      O
+the     O
+capital O
+of      O
+both    O
+Punjab  B-STATE
+and     O
+Haryana B-STATE
+.       O
+
+Call    O
+our     O
+office  O
+at      O
++91-9876543210   B-PHONE
+for     O
+more    O
+details O
+.       O
+
+On      O
+4th     B-DATE
+July    I-DATE
+2024    I-DATE
+a       O
+severe  O
+cyclone O
+hit     O
+the     O
+coast   O
+of      O
+Odisha  B-STATE
+.       O
+
+Ramesh  B-PERSON
+Sinha   I-PERSON
+is      O
+the     O
+Director    O
+of      O
+ISRO    B-ORG
+.       O
+
+An      O
+event   O
+called  O
+TechSpark   B-EVENT
+2025    I-EVENT
+will    O
+be      O
+organized   O
+in      O
+Bangalore   B-CITY
+.       O
+
+The     O
+website O
+https://www.healthcare.gov.in B-URLS
+provides    O
+details O
+about   O
+government  O
+schemes O
+.       O
+
+Shreya  B-PERSON
+Roy     I-PERSON
+from    O
+Kolkata B-CITY
+has     O
+been    O
+diagnosed   O
+with    O
+Dengue  B-DISEASE
+.       O
+
+Mumbai  B-CITY
+is      O
+the     O
+financial  O
+capital O
+of      O
+India   B-COUNTRY
+.       O
+Neha    B-PERSON
+visited O
+Charminar   B-FACILITIES
+in  O
+Hyderabad   B-CITY
+yesterday   B-DATE
+.   O
+
+Infosys B-ORG
+conducted   O
+a   O
+campus  O
+drive   O
+at  O
+IIT-Bombay  B-ORG
+on  O
+14th    B-DATE
+March   I-DATE
+2023    I-DATE
+.   O
+
+Prime   B-PERSON
+Minister    I-PERSON
+Narendra    I-PERSON
+Modi    I-PERSON
+will    O
+address B-EVENT
+the O
+nation  O
+at  O
+8   B-TIME
+PM  I-TIME
+today   B-DATE
+.   O
+
+Rani    B-PERSON
+lives   O
+in  O
+Kohima  B-CITY
+,   O
+the O
+capital B-STATE
+of  O
+Nagaland    I-STATE
+.   O
+
+The O
+official    O
+website B-URLS
+of  O
+the O
+Supreme B-ORG
+Court   I-ORG
+is  O
+www.sci.gov.in   B-URLS
+.   O
+
+Sanjay  B-PERSON
+is  O
+diagnosed   O
+with    O
+tuberculosis    B-DISEASE
+and O
+is  O
+under   O
+treatment   O
+at  O
+Medanta B-HOSPITAL
+Hospital    I-HOSPITAL
+.   O
+
+The O
+helpline    O
+number  B-PHONE
+for O
+fire    O
+services    B-POLICE_STATION__FIRE_SERVICES
+in  O
+Chandigarh  B-CITY
+is  O
+101 B-PHONE
+.   O
+
+Haryana B-STATE
+recorded    O
+a   O
+temperature B-TEMPERATURE
+of  O
+45  I-TEMPERATURE
+degree  I-TEMPERATURE
+Celsius B-TEMPERATURE
+yesterday   B-DATE
+.   O
+
+She O
+donated O
+₹5000   B-MONEY
+to  O
+Smile  B-ORG
+Foundation  I-ORG
+on  O
+Diwali  B-EVENT
+.   O
+
+Yashika B-PERSON
+is  O
+doing   O
+an  O
+internship  O
+at  O
+Tata   B-ORG
+Consultancy I-ORG
+Services    I-ORG
+in  O
+Bengaluru   B-CITY
+.   O
+
+

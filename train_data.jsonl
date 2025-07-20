@@ -1,0 +1,182 @@
+{"text": "Rani Kumari visited Apollo Hospital in Delhi on 15 August 2023 .", "entities": [[0, 11, "PERSON"], [20, 35, "HOSPITAL"], [39, 44, "CITY"], [48, 62, "DATE"]]}
+{"text": "Dr. Amit Shah is a renowned surgeon at AIIMS .", "entities": [[0, 13, "PERSON"], [39, 44, "HOSPITAL"]]}
+{"text": "Contact support @ healthcare . org for assistance .", "entities": [[8, 34, "EMAIL"]]}
+{"text": "Call our helpline number 1800 123 4567 .", "entities": [[25, 38, "PHONE"]]}
+{"text": "The temperature in Jaipur reached 47 \u00b0C yesterday .", "entities": [[19, 25, "CITY"], [34, 39, "TEMPERATURE"]]}
+{"text": "Apollo Kolkata treated over 200 patients last week .", "entities": [[0, 14, "HOSPITAL"], [28, 31, "COUNT"]]}
+{"text": "Visit www . govhealth . in for more info .", "entities": [[6, 26, "URLS"]]}
+{"text": "Microsoft India launched a new AI center in Hyderabad .", "entities": [[0, 15, "ORG"], [44, 53, "CITY"]]}
+{"text": "The festival of lights was celebrated on 24 October 2022 .", "entities": [[4, 12, "EVENT"], [41, 56, "DATE"]]}
+{"text": "Email queries to helpdesk @ delhigov . in .", "entities": [[17, 41, "EMAIL"]]}
+{"text": "Neha Singh organized the blood donation camp at Safdarjung .", "entities": [[0, 10, "PERSON"], [48, 58, "HOSPITAL"]]}
+{"text": "Patna Medical College held a seminar on malaria .", "entities": [[0, 5, "CITY"], [6, 21, "HOSPITAL"], [40, 47, "DISEASE"]]}
+{"text": "India and France signed a defense agreement .", "entities": [[0, 5, "COUNTRY"], [10, 16, "COUNTRY"]]}
+{"text": "Dr. Rajesh Verma was appointed as director of AIIMS Bhopal .", "entities": [[0, 16, "PERSON"], [46, 58, "HOSPITAL"]]}
+{"text": "Call us at 9876543210 for more details .", "entities": [[11, 21, "PHONE"]]}
+{"text": "The Ministry of Health launched a new vaccination drive .", "entities": [[4, 22, "ORG"]]}
+{"text": "Asha Mishra was diagnosed with typhoid .", "entities": [[0, 11, "PERSON"], [31, 38, "DISEASE"]]}
+{"text": "The fire department in Lucknow handled the emergency efficiently .", "entities": [[4, 19, "POLICE_STATION__FIRE_SERVICES"], [23, 30, "CITY"]]}
+{"text": "Book an appointment on www . fortis . com today .", "entities": [[23, 41, "URLS"]]}
+{"text": "Mr. Suresh Kumar works at TCS in Bengaluru .", "entities": [[0, 16, "PERSON"], [26, 29, "ORG"], [33, 42, "CITY"]]}
+{"text": "The incident occurred on 10 January 2023 at 4 PM .", "entities": [[25, 40, "DATE"], [44, 48, "TIME"]]}
+{"text": "Dr. Priya Mehta is a specialist in cardiology .", "entities": [[0, 15, "PERSON"], [35, 45, "DISEASE"]]}
+{"text": "Visit https : / / www . health . gov . in .", "entities": [[6, 23, "URLS"], [24, 41, "URLS"]]}
+{"text": "The hospital has 120 beds available now .", "entities": [[4, 12, "FACILITIES"], [17, 20, "COUNT"]]}
+{"text": "Anjali visited Breach Candy Hospital in Mumbai .", "entities": [[0, 6, "PERSON"], [15, 36, "HOSPITAL"], [40, 46, "CITY"]]}
+{"text": "There was a 32 year-old man admitted .", "entities": [[12, 23, "AGE"]]}
+{"text": "Infosys is hiring software engineers in Pune .", "entities": [[0, 7, "ORG"], [40, 44, "CITY"]]}
+{"text": "The blood bank was opened on Monday .", "entities": [[4, 14, "FACILITIES"], [29, 35, "DATE"]]}
+{"text": "Rahul scored 90 % in his board exams .", "entities": [[0, 5, "PERSON"], [13, 17, "PERCENT"]]}
+{"text": "Pay \u20b9 1500 for registration .", "entities": [[4, 10, "MONEY"]]}
+{"text": "Bihar reported a spike in cholera cases .", "entities": [[0, 5, "STATE"], [26, 33, "DISEASE"]]}
+{"text": "Contact emergency services in Kolkata .", "entities": [[8, 26, "FACILITIES"], [30, 37, "CITY"]]}
+{"text": "The event will start at 6 PM today .", "entities": [[4, 9, "EVENT"], [24, 28, "TIME"]]}
+{"text": "Rajasthan has launched a new health scheme .", "entities": [[0, 9, "STATE"]]}
+{"text": "Email support @ mohfw . nic . in .", "entities": [[6, 32, "EMAIL"]]}
+{"text": "Taj Hotel in Agra is offering discounts .", "entities": [[0, 9, "FACILITIES"], [13, 17, "CITY"]]}
+{"text": "The Prime Minister visited Kerala .", "entities": [[4, 18, "PERSON"], [27, 33, "STATE"]]}
+{"text": "The firefighters from Ahmedabad controlled the blaze .", "entities": [[4, 16, "POLICE_STATION__FIRE_SERVICES"], [22, 31, "CITY"]]}
+{"text": "Submit your form on www . delhihealth . gov . in .", "entities": [[20, 48, "URLS"]]}
+{"text": "Mumbai Airport was closed due to fog .", "entities": [[0, 6, "CITY"], [7, 14, "FACILITIES"]]}
+{"text": "Parul Sharma scored 98 % in Maths .", "entities": [[0, 12, "PERSON"], [20, 24, "PERCENT"]]}
+{"text": "Hyderabad is hosting a medical conference this week .", "entities": [[0, 9, "CITY"], [31, 41, "EVENT"]]}
+{"text": "WHO released a report on healthcare .", "entities": [[0, 3, "ORG"]]}
+{"text": "The budget for vaccines is \u20b9 2000 crore . Sanjay Verma joined Infosys as a software engineer in Pune .", "entities": [[27, 39, "MONEY"], [42, 54, "PERSON"], [62, 69, "ORG"], [96, 100, "CITY"]]}
+{"text": "The emergency ward in AIIMS Delhi was renovated recently .", "entities": [[4, 18, "FACILITIES"], [22, 33, "HOSPITAL"]]}
+{"text": "Call our helpline at 1800 200 3456 for support .", "entities": [[21, 34, "PHONE"]]}
+{"text": "COVID-19 cases are rising in Uttar Pradesh .", "entities": [[0, 8, "DISEASE"], [29, 42, "STATE"]]}
+{"text": "The official website is www . health . gov . in .", "entities": [[24, 47, "URLS"]]}
+{"text": "Dr. Rakesh Singh spoke at the Global Health Summit .", "entities": [[0, 16, "PERSON"], [30, 50, "EVENT"]]}
+{"text": "Book an appointment with Dr. Kriti Jain online .", "entities": [[25, 39, "PERSON"]]}
+{"text": "Apollo Hospital in Ahmedabad has modern ICU facilities .", "entities": [[0, 15, "HOSPITAL"], [19, 28, "CITY"], [40, 43, "FACILITIES"]]}
+{"text": "India celebrated its 75th Independence Day on 15 August 2022 .", "entities": [[0, 5, "COUNTRY"], [26, 42, "EVENT"], [46, 60, "DATE"]]}
+{"text": "The temperature in Nagpur is 42 \u00b0C today .", "entities": [[19, 25, "CITY"], [29, 34, "TEMPERATURE"]]}
+{"text": "Email support @ apollohospital . org .", "entities": [[6, 36, "EMAIL"]]}
+{"text": "The ambulance reached in 15 minutes .", "entities": [[4, 13, "FACILITIES"], [25, 35, "TIME"]]}
+{"text": "Amazon India announced festive discounts this month .", "entities": [[0, 12, "ORG"]]}
+{"text": "Ananya Roy from Kolkata scored 97 % in Maths .", "entities": [[0, 10, "PERSON"], [16, 23, "CITY"], [31, 35, "PERCENT"]]}
+{"text": "Pay \u20b9 850 for your consultation .", "entities": [[4, 9, "MONEY"]]}
+{"text": "The fire station in Bhopal responded promptly .", "entities": [[4, 16, "POLICE_STATION__FIRE_SERVICES"], [20, 26, "CITY"]]}
+{"text": "Microsoft invested \u20b9 1200 crores in India .", "entities": [[0, 9, "ORG"], [19, 32, "MONEY"], [36, 41, "COUNTRY"]]}
+{"text": "Email queries to help @ govin . in .", "entities": [[17, 34, "EMAIL"]]}
+{"text": "Aarav Sharma was admitted to Fortis Hospital .", "entities": [[0, 12, "PERSON"], [29, 44, "HOSPITAL"]]}
+{"text": "The conference on Digital Health was held in Chennai .", "entities": [[4, 14, "EVENT"], [45, 52, "CITY"]]}
+{"text": "Police in Gurgaon investigated a cyber crime case .", "entities": [[0, 6, "ORG"], [10, 17, "CITY"]]}
+{"text": "AIIMS has one of the largest trauma centers in India .", "entities": [[0, 5, "HOSPITAL"], [29, 43, "FACILITIES"], [47, 52, "COUNTRY"]]}
+{"text": "The Malaria outbreak was contained in Odisha .", "entities": [[4, 11, "DISEASE"], [38, 44, "STATE"]]}
+{"text": "Tanvi Kapoor registered through www . healthportal . in .", "entities": [[0, 12, "PERSON"], [32, 55, "URLS"]]}
+{"text": "The Delhi Fire Service handled the chemical leakage .", "entities": [[4, 9, "STATE"], [10, 22, "POLICE_STATION__FIRE_SERVICES"]]}
+{"text": "Call us on 999 888 7770 today .", "entities": [[11, 23, "PHONE"]]}
+{"text": "The patient was 45 years old .", "entities": [[4, 11, "PERSON"], [16, 24, "AGE"]]}
+{"text": "Bengaluru is hosting a robotics conference this week .", "entities": [[0, 9, "CITY"], [32, 42, "EVENT"]]}
+{"text": "Infosys plans to hire 200 graduates .", "entities": [[0, 7, "ORG"], [22, 25, "COUNT"]]}
+{"text": "The workshop on mental health starts at 11 AM .", "entities": [[4, 12, "EVENT"], [40, 45, "TIME"]]}
+{"text": "AIIMS has launched a free online portal .", "entities": [[0, 5, "HOSPITAL"]]}
+{"text": "Dr. Farhan Ali is a neurosurgeon from Kanpur .", "entities": [[0, 14, "PERSON"], [38, 44, "CITY"]]}
+{"text": "Check the vaccination status at www . covid . org . in .", "entities": [[32, 54, "URLS"]]}
+{"text": "Akhil sent an email to care @ aiims . edu .", "entities": [[0, 5, "PERSON"], [23, 41, "EMAIL"]]}
+{"text": "Haryana recorded a drop in dengue cases .", "entities": [[0, 7, "STATE"], [27, 33, "DISEASE"]]}
+{"text": "Suresh Chandra is the CEO of Vedanta .", "entities": [[0, 14, "PERSON"], [29, 36, "ORG"]]}
+{"text": "The health unit in Jharkhand was expanded .", "entities": [[4, 15, "FACILITIES"], [19, 28, "STATE"]]}
+{"text": "Diabetes is becoming a growing concern in urban India .", "entities": [[0, 8, "DISEASE"], [48, 53, "COUNTRY"]]}
+{"text": "Call 1800 555 6677 for appointments .", "entities": [[5, 18, "PHONE"]]}
+{"text": "Tanya Malhotra attended the annual medical fair .", "entities": [[0, 14, "PERSON"], [28, 47, "EVENT"]]}
+{"text": "Google launched its new AI lab in Noida . Sita lives in Hyderabad .", "entities": [[0, 6, "ORG"], [34, 39, "CITY"], [42, 46, "PERSON"], [56, 65, "CITY"]]}
+{"text": "Tata Consultancy Services is hiring graduates .", "entities": [[0, 25, "ORG"]]}
+{"text": "Dr. Rakesh Mehta joined AIIMS Delhi in 2021 .", "entities": [[0, 16, "PERSON"], [24, 29, "HOSPITAL"], [30, 35, "CITY"], [39, 43, "DATE"]]}
+{"text": "You can reach me at priya.kumar@gmail.com .", "entities": [[20, 41, "EMAIL"]]}
+{"text": "The meeting is scheduled for 5 May 2025 .", "entities": [[4, 11, "EVENT"], [29, 39, "DATE"]]}
+{"text": "He called on +91-9898989898 .", "entities": [[13, 27, "PHONE"]]}
+{"text": "Apollo Hospital offers world-class facilities .", "entities": [[0, 15, "HOSPITAL"], [35, 45, "FACILITIES"]]}
+{"text": "They imported 500 oxygen cylinders .", "entities": [[14, 17, "COUNT"]]}
+{"text": "Covid-19 cases are declining in Rajasthan .", "entities": [[0, 8, "DISEASE"], [32, 41, "STATE"]]}
+{"text": "She received \u20b910000 as bonus .", "entities": [[13, 19, "MONEY"]]}
+{"text": "The officials visited Mumbai Central Station .", "entities": [[22, 28, "CITY"], [29, 36, "FACILITIES"]]}
+{"text": "On 15th August India celebrates Independence Day .", "entities": [[3, 14, "DATE"], [15, 20, "COUNTRY"], [32, 48, "EVENT"]]}
+{"text": "Fire services arrived in 5 minutes .", "entities": [[0, 13, "POLICE_STATION__FIRE_SERVICES"], [25, 34, "TIME"]]}
+{"text": "I searched www.railways.gov.in for train schedules .", "entities": [[11, 30, "URLS"]]}
+{"text": "Anjali contacted Bihar Police regarding theft .", "entities": [[0, 6, "PERSON"], [17, 22, "STATE"], [23, 29, "POLICE_STATION__FIRE_SERVICES"]]}
+{"text": "The report will be published on 22nd July .", "entities": [[32, 41, "DATE"]]}
+{"text": "He arrived at 6:30 PM .", "entities": [[14, 21, "TIME"]]}
+{"text": "National Highway Authority of India is undergoing revamp .", "entities": [[0, 35, "ORG"]]}
+{"text": "Swati downloaded the YONO app from Play Store .", "entities": [[0, 5, "PERSON"], [21, 25, "PRODUCT"]]}
+{"text": "She has Malaria since Monday .", "entities": [[8, 15, "DISEASE"], [22, 28, "DATE"]]}
+{"text": "Bangalore is known for its IT sector .", "entities": [[0, 9, "CITY"]]}
+{"text": "The bill amount was \u20b92500 .", "entities": [[20, 25, "MONEY"]]}
+{"text": "Infosys Ltd. has offices in Chennai .", "entities": [[0, 12, "ORG"], [28, 35, "CITY"]]}
+{"text": "Rani scored 92% in her exams .", "entities": [[0, 4, "PERSON"], [12, 15, "PERCENT"]]}
+{"text": "Amrit attended the Infection Control Seminar .", "entities": [[0, 5, "PERSON"], [19, 44, "EVENT"]]}
+{"text": "The doctors at Fortis Hospital saved her life .", "entities": [[15, 30, "HOSPITAL"]]}
+{"text": "Please call me on 9876543210 .", "entities": [[18, 28, "PHONE"]]}
+{"text": "They celebrated Republic Day on 26 January .", "entities": [[16, 28, "EVENT"], [32, 42, "DATE"]]}
+{"text": "Patna has a well-equipped Emergency Ward .", "entities": [[0, 5, "CITY"], [26, 40, "FACILITIES"]]}
+{"text": "Dengue outbreak is under control now .", "entities": [[0, 6, "DISEASE"]]}
+{"text": "Siddharth is working at HCL Technologies .", "entities": [[0, 9, "PERSON"], [24, 40, "ORG"]]}
+{"text": "Delhi Metro is safe for travel .", "entities": [[0, 5, "CITY"]]}
+{"text": "They transferred \u20b950000 to the account .", "entities": [[17, 23, "MONEY"]]}
+{"text": "Kapil booked tickets via www.irctc.co.in .", "entities": [[0, 5, "PERSON"], [25, 40, "URLS"]]}
+{"text": "There are 45 patients in the ward .", "entities": [[10, 12, "COUNT"]]}
+{"text": "Mr. Ajay Kumar joined Indian Oil .", "entities": [[0, 14, "PERSON"], [22, 32, "ORG"]]}
+{"text": "She was born on 12th April .", "entities": [[16, 26, "DATE"]]}
+{"text": "Call Patna Station in case of emergency . Rahul Verma visited the Gandhi Hospital in Bhopal on 23rd May 2023 .", "entities": [[5, 18, "POLICE_STATION__FIRE_SERVICES"], [42, 53, "PERSON"], [66, 81, "HOSPITAL"], [85, 91, "CITY"], [95, 108, "DATE"]]}
+{"text": "Anjali called her father at +919812345678 to inform about her appointment .", "entities": [[0, 6, "PERSON"], [28, 41, "PHONE"]]}
+{"text": "The Kalinga Literary Festival will be held in Bhubaneswar next week .", "entities": [[4, 29, "EVENT"], [46, 57, "CITY"]]}
+{"text": "Apollo Hospitals Chennai is famous for its cancer treatment .", "entities": [[0, 16, "HOSPITAL"], [17, 24, "CITY"], [43, 49, "DISEASE"]]}
+{"text": "Mr. Rakesh Sharma works for Indian Space Research Organisation .", "entities": [[4, 17, "PERSON"], [28, 62, "ORG"]]}
+{"text": "Anshika lives in Itanagar , the capital of Arunachal Pradesh .", "entities": [[0, 7, "PERSON"], [17, 25, "CITY"], [43, 60, "STATE"]]}
+{"text": "The official website is www.mha.gov.in .", "entities": [[24, 38, "URLS"]]}
+{"text": "Please send an email to hr@iitd.ac.in for further details .", "entities": [[24, 37, "EMAIL"]]}
+{"text": "They conducted a COVID-19 testing drive in Kozhikode .", "entities": [[17, 25, "DISEASE"], [43, 52, "CITY"]]}
+{"text": "India won 5 gold medals in the Asian Games .", "entities": [[0, 5, "COUNTRY"], [10, 16, "COUNT"], [31, 42, "EVENT"]]}
+{"text": "On 14th August 1947 , Pakistan gained independence .", "entities": [[3, 19, "DATE"], [22, 30, "COUNTRY"]]}
+{"text": "Pawan Kumar has a meeting scheduled at 11:45 AM .", "entities": [[0, 11, "PERSON"], [39, 47, "TIME"]]}
+{"text": "The blood pressure was recorded as 120/80 mmHg .", "entities": [[35, 41, "TEMPERATURE"]]}
+{"text": "Taj Hotel Mumbai was renovated last month .", "entities": [[0, 9, "FACILITIES"], [10, 16, "CITY"]]}
+{"text": "Indira Gandhi was born on 19th November 1917 .", "entities": [[0, 13, "PERSON"], [26, 44, "DATE"]]}
+{"text": "The Capital Complex in Chandigarh is a UNESCO Heritage Site .", "entities": [[4, 19, "FACILITIES"], [23, 33, "CITY"], [39, 59, "ORG"]]}
+{"text": "He scored 98.75 percent in his board exam .", "entities": [[10, 23, "PERCENT"]]}
+{"text": "Ravi booked tickets for Shillong , capital of Meghalaya .", "entities": [[0, 4, "PERSON"], [24, 32, "CITY"], [46, 55, "STATE"]]}
+{"text": "Her website https://raniwrites.in has many poems .", "entities": [[12, 33, "URLS"]]}
+{"text": "Shreya is undergoing treatment for pneumonia at Max Hospital .", "entities": [[0, 6, "PERSON"], [35, 44, "DISEASE"], [48, 60, "HOSPITAL"]]}
+{"text": "Agartala is the capital of Tripura .", "entities": [[0, 8, "CITY"], [27, 34, "STATE"]]}
+{"text": "The temperature in Srinagar was -2 degree Celsius today .", "entities": [[19, 27, "CITY"], [32, 49, "TEMPERATURE"]]}
+{"text": "He bought a new Dell laptop from Amazon .", "entities": [[16, 20, "PRODUCT"], [33, 39, "ORG"]]}
+{"text": "The chief minister of Jharkhand visited Hazaribagh .", "entities": [[22, 31, "STATE"], [40, 50, "CITY"]]}
+{"text": "The Fire Department reached within 10 minutes .", "entities": [[4, 19, "POLICE_STATION__FIRE_SERVICES"], [35, 45, "TIME"]]}
+{"text": "She earned \u20b9 5 lakhs in one month from freelancing .", "entities": [[11, 20, "MONEY"]]}
+{"text": "Dr. Meera Singh is a renowned dermatologist .", "entities": [[4, 15, "PERSON"]]}
+{"text": "Rajiv Chowk metro station is in New Delhi .", "entities": [[0, 5, "PERSON"], [6, 11, "CITY"], [32, 41, "CITY"]]}
+{"text": "The Nobel Prize was awarded to Amartya Sen .", "entities": [[4, 15, "EVENT"], [31, 42, "PERSON"]]}
+{"text": "Email us at support@upsc.gov.in for queries .", "entities": [[12, 31, "EMAIL"]]}
+{"text": "The crime was reported to Vikaspuri Police Station .", "entities": [[26, 50, "POLICE_STATION__FIRE_SERVICES"]]}
+{"text": "Amit traveled to Dispur , capital of Assam .", "entities": [[0, 4, "PERSON"], [17, 23, "CITY"], [37, 42, "STATE"]]}
+{"text": "They celebrated the World Health Day in Raipur .", "entities": [[20, 36, "EVENT"], [40, 46, "CITY"]]}
+{"text": "Meghna bought a Revlon lipstick yesterday .", "entities": [[0, 6, "PERSON"], [16, 22, "PRODUCT"]]}
+{"text": "The lecture starts at 9:00 AM sharp .", "entities": [[22, 29, "TIME"]]}
+{"text": "Andhra Pradesh has its capital in Amaravati .", "entities": [[0, 14, "STATE"], [34, 43, "CITY"]]}
+{"text": "They need 15 chairs for the meeting .", "entities": [[10, 19, "COUNT"]]}
+{"text": "Dr. Ananya Verma is a pediatrician in AIIMS Delhi .", "entities": [[4, 16, "PERSON"], [38, 43, "HOSPITAL"], [44, 49, "CITY"]]}
+{"text": "The company earned \u20b9 1 crore in quarter 1 . Ravi Kumar was admitted to AIIMS Delhi on 14th February 2023 .", "entities": [[19, 28, "MONEY"], [44, 54, "PERSON"], [71, 76, "HOSPITAL"], [77, 82, "CITY"], [86, 104, "DATE"]]}
+{"text": "The conference was held in Kolkata at Netaji Indoor Stadium .", "entities": [[27, 34, "CITY"], [38, 59, "FACILITIES"]]}
+{"text": "Dr. Megha Patel is a renowned cardiologist at Apollo Hospitals in Ahmedabad .", "entities": [[0, 15, "PERSON"], [46, 62, "HOSPITAL"], [66, 75, "CITY"]]}
+{"text": "Please contact her at megha.patel92@gmail.com for appointments .", "entities": [[22, 45, "EMAIL"]]}
+{"text": "He was born in Guwahati on 10th October 1992 .", "entities": [[15, 23, "CITY"], [27, 44, "DATE"]]}
+{"text": "Shivani Verma from Patna scored 94.5 percent in her board exams .", "entities": [[0, 13, "PERSON"], [19, 24, "CITY"], [32, 44, "PERCENT"]]}
+{"text": "The URL for the project is https://www.smartcitydelhi.gov.in .", "entities": [[27, 60, "URLS"]]}
+{"text": "Chandigarh is known for its urban planning and is the capital of both Punjab and Haryana .", "entities": [[0, 10, "STATE"], [70, 76, "STATE"], [81, 88, "STATE"]]}
+{"text": "Call our office at +91-9876543210 for more details .", "entities": [[19, 33, "PHONE"]]}
+{"text": "On 4th July 2024 a severe cyclone hit the coast of Odisha .", "entities": [[3, 16, "DATE"], [51, 57, "STATE"]]}
+{"text": "Ramesh Sinha is the Director of ISRO .", "entities": [[0, 12, "PERSON"], [32, 36, "ORG"]]}
+{"text": "An event called TechSpark 2025 will be organized in Bangalore .", "entities": [[16, 30, "EVENT"], [52, 61, "CITY"]]}
+{"text": "The website https://www.healthcare.gov.in provides details about government schemes .", "entities": [[12, 41, "URLS"]]}
+{"text": "Shreya Roy from Kolkata has been diagnosed with Dengue .", "entities": [[0, 10, "PERSON"], [16, 23, "CITY"], [48, 54, "DISEASE"]]}
+{"text": "Mumbai is the financial capital of India . Neha visited Charminar in Hyderabad yesterday .", "entities": [[0, 6, "CITY"], [35, 40, "COUNTRY"], [43, 47, "PERSON"], [56, 65, "FACILITIES"], [69, 78, "CITY"], [79, 88, "DATE"]]}
+{"text": "Infosys conducted a campus drive at IIT-Bombay on 14th March 2023 .", "entities": [[0, 7, "ORG"], [36, 46, "ORG"], [50, 65, "DATE"]]}
+{"text": "Prime Minister Narendra Modi will address the nation at 8 PM today .", "entities": [[0, 28, "PERSON"], [34, 41, "EVENT"], [56, 60, "TIME"], [61, 66, "DATE"]]}
+{"text": "Rani lives in Kohima , the capital of Nagaland .", "entities": [[0, 4, "PERSON"], [14, 20, "CITY"], [27, 34, "STATE"]]}
+{"text": "The official website of the Supreme Court is www.sci.gov.in .", "entities": [[13, 20, "URLS"], [28, 41, "ORG"], [45, 59, "URLS"]]}
+{"text": "Sanjay is diagnosed with tuberculosis and is under treatment at Medanta Hospital .", "entities": [[0, 6, "PERSON"], [25, 37, "DISEASE"], [64, 80, "HOSPITAL"]]}
+{"text": "The helpline number for fire services in Chandigarh is 101 .", "entities": [[13, 19, "PHONE"], [29, 37, "POLICE_STATION__FIRE_SERVICES"], [41, 51, "CITY"], [55, 58, "PHONE"]]}
+{"text": "Haryana recorded a temperature of 45 degree Celsius yesterday .", "entities": [[0, 7, "STATE"], [19, 30, "TEMPERATURE"], [44, 51, "TEMPERATURE"], [52, 61, "DATE"]]}
+{"text": "She donated \u20b95000 to Smile Foundation on Diwali .", "entities": [[12, 17, "MONEY"], [21, 37, "ORG"], [41, 47, "EVENT"]]}
+{"text": "Yashika is doing an internship at Tata Consultancy Services in Bengaluru .", "entities": [[0, 7, "PERSON"], [34, 59, "ORG"], [63, 72, "CITY"]]}
