@@ -1,7 +1,3 @@
-**Team Members :** Anjali Kumari and Anisha Kumari
-
-
-
 
 # NER-Project
 This Project is Named Entity Recognition (NER) application built using spaCy and Streamlit. It allows users to choose between two options : a custom based -trained model and a pretrained model. The custom model is specifically trained on Indian - related content, making it well-suited for recognizing Indian names, cities , states , diseases etc. On the otherhand the pretrained is based on spaCy's global English model which recognises standard entity types like PERSON, ORG, GPE,DATE, and TIME.
